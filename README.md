@@ -1,5 +1,5 @@
 # khadas-vim2
-Some notes about using Khadas VIM2 board. This notes are oriented on Gentoo users. It's suggested that the bootloaded (u-boot) has not been overwritten.
+Some notes about using Khadas VIM2 board. The notes are oriented on Gentoo users. It's suggested that the bootloaded (u-boot) has not been overwritten.
 
 To simplify some work install any Linux OS to run the board first.
 
